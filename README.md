@@ -20,12 +20,9 @@ Diamond
 Prime numbers
 Find armstrong number
 Generate armstrong number
-
-#to be completed
 Fibonacci series
 Print floyd's triangle
 Print pascal triangle
-Addition using pointers
 Maximum element in array
 Minimum element in array
 Linear search
@@ -33,6 +30,8 @@ Binary search
 Reverse array
 Insert element in array
 Delete element from array
+
+#to be completed
 Merge arrays
 Bubble sort
 Insertion sort
@@ -66,3 +65,7 @@ Add complex numbers
 Print date
 Get IP address
 Shutdown computer
+
+#not able to do 
+Addition using pointers
+
