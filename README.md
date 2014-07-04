@@ -30,9 +30,6 @@ Binary search
 Reverse array
 Insert element in array
 Delete element from array
-
-#to be completed
-Merge arrays
 Bubble sort
 Insertion sort
 Selection sort
@@ -46,6 +43,8 @@ Compare strings
 Copy string
 Concatenate strings
 Reverse string
+
+#to be completed
 Find palindrome
 Delete vowels
 C substring
@@ -68,4 +67,5 @@ Shutdown computer
 
 #not able to do 
 Addition using pointers
+Merge arrays
 
