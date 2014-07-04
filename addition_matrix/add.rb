@@ -2,9 +2,9 @@
 puts"enter the number of rows and columns of matrix"
 m=gets.chomp.to_i
 n=gets.chomp.to_i
-a=Array.new(m){Array.new(n)}
-b=Array.new(m){Array.new(n)}
-sum=Array.new(m){Array.new(n)}
+a=Array.new{Array.new}
+b=Array.new{Array.new}
+sum=Array.new{Array.new}
 puts"Enter the elements of 1st matrix"
 for c in 0...m
 for d in 0...n
