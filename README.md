@@ -46,7 +46,6 @@ Reverse string
 
 #to be completed
 Find palindrome
-Delete vowels
 C substring
 Sort a string
 Remove spaces
@@ -68,4 +67,5 @@ Shutdown computer
 #not able to do 
 Addition using pointers
 Merge arrays
+Delete vowels
 
