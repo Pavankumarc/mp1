@@ -43,29 +43,37 @@ Compare strings
 Copy string
 Concatenate strings
 Reverse string
-
-#to be completed
 Find palindrome
-C substring
-Sort a string
-Remove spaces
 Change case
 Swap strings
-Character's frequency
-Anagrams
 Read file
 Copy files
-Merge two files
-List files in a directory
-Delete file
-Random numbers
-Add complex numbers
 Print date
 Get IP address
+Delete file
+Random numbers
+List files in a directory
+
+
+#to be completed
+Character's frequency
+Anagrams
+Merge two files
+Add complex numbers
 Shutdown computer
+
 
 #not able to do 
 Addition using pointers
 Merge arrays
 Delete vowels
+C substring
+Sort a string
+Remove spaces
+
+
+
+
+
+
 
