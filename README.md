@@ -61,16 +61,16 @@
 57. Character's frequency
 58. Anagrams
 59. Shutdown computer
-
+60. Merge arrays
 
 **not able to do**
 
 1. Addition using pointers
-2. Merge arrays
-3. Delete vowels
-4. C substring
-5. Sort a string
-6. Remove spaces
+2. Delete vowels
+3. C substring
+4. Sort a string
+5. Remove spaces
+
 
 
 
