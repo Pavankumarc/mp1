@@ -24,7 +24,7 @@ def check_vowel ch
      return 0
 end
 end
-puts "enter any how many elements in string array"
+puts "enter how many elements in string array"
 a = gets.to_i
 b = []
 c = []
