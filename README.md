@@ -62,14 +62,17 @@
 58. Anagrams
 59. Shutdown computer
 60. Merge arrays
+61. Remove spaces
+62. Delete vowels
+
 
 **not able to do**
 
 1. Addition using pointers
-2. Delete vowels
-3. C substring
-4. Sort a string
-5. Remove spaces
+2. C substring
+3. Sort a string
+ 
+
 
 
 
